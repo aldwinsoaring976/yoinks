@@ -17,7 +17,7 @@ no sketchy redirects.
 ## Install
 
 ```sh
-open yoinks application
+npm install -g yoinks
 ```
 
 Or try it without installing anything:
